@@ -10,8 +10,8 @@
 | Link | GitHub |
 | ---- | ------ |
 | [EznixOS Xfce Adjustment](https://samwhelp.github.io/eznixos-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/eznixos-xfce-adjustment) |
-| [EznixOS Adjustment](https://samwhelp.github.io/eznixos-adjustment/) | [GitHub](https://github.com/samwhelp/eznixos-adjustment) |
 | [EznixOS Xfce Note](https://samwhelp.github.io/note-about-eznixos-xfce/) | [GitHub](https://github.com/samwhelp/note-about-eznixos-xfce) |
+| [EznixOS Adjustment](https://samwhelp.github.io/eznixos-adjustment/) | [GitHub](https://github.com/samwhelp/eznixos-adjustment) |
 
 
 
